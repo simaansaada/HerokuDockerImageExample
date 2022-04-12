@@ -1,0 +1,2 @@
+﻿<h2>Heroku ready-to-deploy docker image .NET Core app with Angualr Client Side. </h2>
+Here you can find a very basic project that can be deployed with it's client and server side in one image to heroku.com
